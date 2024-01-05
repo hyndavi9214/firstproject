@@ -1,0 +1,21 @@
+.product
+{
+    width:fit-content;
+    padding: 20px;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+.user
+{
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    width:fit-content;
+}
+.country
+{
+    background-color: gold;
+    padding: 20px;
+    margin: 20px;
+    width:fit-content
+}
